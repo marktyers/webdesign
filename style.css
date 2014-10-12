@@ -1,0 +1,17 @@
+@font-face {
+    font-family: gilsans;
+    src: url(gilsans.ttf);
+}
+
+body {
+    background-color: grey;
+    color: white;
+}
+
+h1 {
+    font-family: gilsans, arial;
+}
+
+p {
+    font-family: helvetica, arial, sans-serif;
+}
